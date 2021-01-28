@@ -1,3 +1,7 @@
 var learning = 'Javascript'; 
-console.log(learning); 
+var age = '99';
+console.log(age); 
+
+var days99 =99;
+
 
