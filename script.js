@@ -1,3 +1,10 @@
+// Const Variables
+const mood ='Excited' 
+console.log(mood); 
+
+// you cannot re assing the value
+
+
 //let & const
 let learning = 'Modern Javascript'; 
 var age = '15';
@@ -14,4 +21,4 @@ console.log(product1);
 console.log(product2);
  
  let shoppingCart = ['Product1', 'Product2', 'Product3']; 
- console.log(shoppingCart);
+ console.log(shoppingCart); 
